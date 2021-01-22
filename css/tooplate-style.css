@@ -15,10 +15,6 @@ body {
 	font-style: bold;
 
 }
-.Online-Experience{
-	background-color: ;
-	color: black;
-
 }
 
 .button-daman{
@@ -45,7 +41,7 @@ a:focus {
 	color: white;
 }
 
-	div.gallery {
+div.gallery {
   margin: 75px;
   margin-bottom: 5px;
   border: 1px solid #ccc;
@@ -132,8 +128,35 @@ div.desc {
 .column1{
 	float: left;
 	width: 25%;
-	padding: 2px;
+	padding-left: 55px;
 	position: relative;
+}
+.online-exp{
+	width: 30%;
+	padding-left: 50px;
+	position: relative;
+
+}
+.Online-Experience{
+	background-color: pink;
+}
+
+.exp2{
+	padding-left: 80px;
+	border-radius: 25px;
+}
+.exp3{
+	padding-left: 80px;
+}
+.Online-Experience{
+	background-color: ;
+}
+.online-experience{
+	width: 620%;
+	padding-left: 50px;
+	position: relative;
+	display: flex;
+	
 }
 .column2{
 	float: left;
