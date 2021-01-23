@@ -15,6 +15,8 @@ body {
 	font-style: bold;
 
 }
+.images{
+	margin-right: 50px;
 }
 
 .button-daman{
@@ -124,12 +126,15 @@ div.desc {
   width: 33.33%;
   padding: 5px;
 }
-
+.live-anywhere{
+	background-color: white;
+}
 .column1{
 	float: left;
 	width: 25%;
 	padding-left: 55px;
 	position: relative;
+	background-color: white;
 }
 .online-exp{
 	width: 30%;
@@ -138,7 +143,8 @@ div.desc {
 
 }
 .Online-Experience{
-	background-color: pink;
+	background-color: black;
+	color: white;
 }
 
 .exp2{
@@ -148,15 +154,32 @@ div.desc {
 .exp3{
 	padding-left: 80px;
 }
+.img-frm1{
+	padding-left: 50px;
+}
+.different{
+	padding-left: 50px;
+}
+
+
+.new-left{
+	margin-top: 50px;
+}
+
+
 .Online-Experience{
 	background-color: ;
 }
 .online-experience{
-	width: 620%;
 	padding-left: 50px;
 	position: relative;
 	display: flex;
 	
+}
+.Join-millions{
+	padding-left: 50px;
+	position: relative;
+	display: flex;
 }
 .column2{
 	float: left;
@@ -164,6 +187,28 @@ div.desc {
 	padding:1px;
 	position:absolute;
 	right: 0;
+}
+.about-background{
+	padding-bottom: 90px;
+}
+.container1 {
+  position: relative;
+  text-align: center;
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 350%
+
+}
+
+}
+.center-text{
+	font-size: 18px !important;
+	line-height: 24px !important;
+	max-width: 300px !important;
 }	
 .w3-round-xlarge{
 	float: left;
@@ -189,6 +234,7 @@ span.clear{
 }
 }
 
+}
 
 .tm-position-relative { position: relative; }
 .tm-flex-align-center { align-items: center; }
@@ -690,6 +736,7 @@ select.tm-select::-ms-expand { display: none; }
 #social-fb:hover {
      color: #3B5998;
      transition:all .001s;
+     margin-right: 20px;
  }
  #social-tw:hover {
      color: #4099FF;
