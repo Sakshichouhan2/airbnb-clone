@@ -126,6 +126,11 @@ div.desc {
   width: 33.33%;
   padding: 5px;
 }
+.column-news{
+	float: left;
+	width: 33.33%;
+	padding: 3px;
+}
 .live-anywhere{
 	background-color: white;
 }
@@ -195,6 +200,11 @@ div.desc {
   position: relative;
   text-align: center;
 }
+.centered2{
+	position: relative;
+	text-align: center;
+	color: white;
+}
 .centered {
   position: absolute;
   top: 30%;
@@ -203,13 +213,84 @@ div.desc {
   font-size: 350%
 
 }
+.centered1{
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 190%;
 
 }
-.center-text{
-	font-size: 18px !important;
-	line-height: 24px !important;
-	max-width: 300px !important;
-}	
+
+.centered2{
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 120%;
+
+}
+
+
+.text-plus{
+	margin-top: 100px;
+	margin-left: 30%;
+	margin-bottom: 100px;
+}
+
+.thought-design{
+	background-color:  #b3b3ff;
+}
+.inspection{
+
+}
+.inspection1{
+	margin-top: 100px;
+	margin-left: 30%;
+	marker-end: 50px;
+}
+.plus-footer{
+	background-color: #00264d;
+}
+.plus-footer1{
+	margin-top: 10%
+}
+.hoteltonight{
+	background-color: #2E4153;
+	
+}
+.hotel2night{
+	margin-left: 30%;
+	margin-top: 10%;
+
+}
+
+.text-footer{
+	margin-left: 20%;
+}
+.image-content{
+	margin-left: 10%;
+	margin-top: 5%;
+}
+.thought-design1{
+	margin-top: 100px;
+	margin-left: 30%;
+	marker-end: 50px;
+
+}
+
+
+.left-text{
+	margin-left: 40px;
+}
+
+.main1{
+	margin-left: 80px;
+}
+.latest-news{
+	margin-top: 60px; 
+}
+
 .w3-round-xlarge{
 	float: left;
 	width: 10%
@@ -219,6 +300,34 @@ div.desc {
 	right: 0;
 	margin-left: 100px;
 }
+.Page2{
+	margin-left: 200px;
+}
+.meet-host{
+	background-color: black;
+	width: 100%
+}
+.new-cat{
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.img-4{
+	margin-top: 50px;
+}
+
+
+..button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+.button1 {border-radius: 50%;}
 
 span.clear{
 	clear:left; display: block;
@@ -330,6 +439,33 @@ p {
     height: 50px;
     background: black;
 }
+.tm-top-bar-inve{
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    z-index: 10000;
+    transition: all 0.2s ease-in-out;
+    height: 80px;
+    background: pink;
+}
+
+.tm-top-bar-inve1{
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    z-index: 10000;
+    transition: all 0.2s ease-in-out;
+    height: 80px;
+    background: white;
+}
+.text-releases{
+	margin-left: 200px;
+}
+
 .tm-section{
 	top: 51px;
 
