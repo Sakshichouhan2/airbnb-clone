@@ -152,6 +152,19 @@ div.desc {
 	color: white;
 }
 
+.Accessible-main{
+	padding-left: 20%;
+	padding-right: 14%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.img-accessible{
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+
 .exp2{
 	padding-left: 80px;
 	border-radius: 25px;
@@ -350,6 +363,40 @@ img-news
 
 }
 
+.associate-login-button{
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer
+
+}
+
+.Forntline-Stays1{
+	padding-top: 10%;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 10%;
+}
+
+.Forntline-Stays2{
+	padding-top: 5%;
+	padding-left: 23%;
+	padding-right: 26%;
+}
+
+.Associate{
+	margin-left: 40px;
+	padding: 5%;
+	background-color: #EFF2F6;
+	text-align: left;
+
+}
+
 
 .left-text{
 	margin-left: 40px;
@@ -370,12 +417,42 @@ img-news
 .left-text3{
 	margin-left: 40px;
 	padding: 5%;
+	padding-right: 20%;
+	text-align: center;
+}
 
+.left-text4{
+	margin-left: 40px;
+	padding: 5%;
+	background-color: #CAE2F8;
 	text-align: center;
 }
 
 .main1{
 	margin-left: 80px;
+}
+
+
+.bg-access{
+	padding-right: 10%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.column4 {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row4:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.career5{
+	padding-right: 5%;
 }
 .latest-news{
 	margin-top: 60px; 
@@ -485,6 +562,22 @@ img-news
 .career-text{
 	padding-left: 20%;
 	padding-right: 20%;
+	padding-bottom: 10%;
+}
+
+.career-cont3{
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 10%;
+}
+
+.career-grid{
+	padding-top: 20%;
+}
+
+.career-OPPORTUNITIES{
+	padding-top: 10%;
+	padding-left: 10%;
 }
 .button {
   background-color: #4CAF50;
@@ -553,7 +646,7 @@ a.tm-color-primary:active {
 
 p { 
 	color: white; 
-	line-height: 2.0;
+	line-height: 1.0;
 }
 
 .navbar { 
