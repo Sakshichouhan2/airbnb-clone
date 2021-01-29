@@ -297,6 +297,7 @@ img-news
 
 }
 
+
 .centered2{
 	position: absolute;
 	top: 30%;
@@ -428,8 +429,75 @@ img-news
 	text-align: center;
 }
 
+
+.left-text5{
+	margin-left: 40px;
+	padding: 5%;
+	text-align: center;
+}
+
+.want2house{
+	padding-top: 10%;
+	padding-left: 5%;
+	padding-right: 45%;
+
+}
+.img-resource{
+	
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+.resource-text{
+	padding-right: 10%;
+	padding-left: 2%;
+}
+
+.left-text10{
+	margin-left: 40px;
+	padding: 5%;
+	text-align: center;
+}
+
+.invite-friend{
+	padding-top: 5%;
+	padding-right: 20%;
+	padding-left: 30%;
+}
+
+
+.invite-friend1{
+	padding-top: 1%;
+	padding-right: 25%;
+	padding-left: 35%;
+}
+
+.invite-friend2{
+	padding-left: 10%;
+	padding-top: 5%;
+}
+
+.button-invite{
+	padding-left: 40%;
+}
+
+
+.box-form{
+	width: 600px;
+	padding: 40px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	color: black;
+	border: 1px solid black;
+	border-radius: 15px;
+
+
+}
+
 .main1{
-	margin-left: 80px;
+	margin-left: 80px;box-form
 }
 
 
