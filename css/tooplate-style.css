@@ -16,6 +16,56 @@ body {
 
 }
 
+.menu-container{
+  width: 100%;
+}
+
+
+.menu-content{
+   margin-top: 1.5rem;
+   width: 50%;
+}
+
+.menu-text{
+    padding: 90px;
+    width: 50%;
+}
+
+p.menu-name{
+    font-size: 1.3rem;
+    text-align: left;
+    text-transform: uppercase;
+    color: #191919;
+    font-weight: bold;
+
+}
+
+p.menu-price{
+    margin-left: 9rem;
+    font-weight: normal;
+    color: #191919;
+    font-size: 1.3rem;
+}
+
+.btn-ts{
+	
+	padding-left: 3%;
+}
+
+
+.btn-ts1{
+	padding-top: 5%;
+	padding-left: 10%;
+	padding-bottom: 20%;
+	padding-right: 10%;
+
+}
+.support-1{
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-top: 5%;
+}
+
 .host-online-experience{
 	padding-top: 15%;
 
@@ -69,6 +119,31 @@ body {
 
 .Popular-articles{
 	padding-left: 5%;
+}
+
+
+.welcome-airbnb{
+	padding-left: 5%;
+	padding-top: 5%;
+}
+
+.popular-articles{
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+
+.choose-kind{
+	padding-left: 5%;
+	padding-left: 5%;
+	padding-bottom: 5%;
+
+}
+
+.airbnb-basics{
+	padding-left: 5%;
+	padding-top: 3%;
+
 }
 
 
@@ -214,6 +289,14 @@ div.desc {
 	float: left;
 	width: 25%;
 	padding-left: 55px;
+	position: relative;
+	background-color: white;
+}
+
+.column1-live{
+	float: left;
+	width: 25%;
+	padding-left: 1px;
 	position: relative;
 	background-color: white;
 }
@@ -784,7 +867,7 @@ img-news
 }
 .meet-host{
 	background-color: black;
-	width: 100%
+	width: 100%;
 }
 .new-cat{
 	margin-top: 50px;
